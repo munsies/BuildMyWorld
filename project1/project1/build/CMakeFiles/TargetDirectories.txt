@@ -1,3 +1,0 @@
-/home/manan/Desktop/RoboticsSoftware/project1/build/CMakeFiles/edit_cache.dir
-/home/manan/Desktop/RoboticsSoftware/project1/build/CMakeFiles/rebuild_cache.dir
-/home/manan/Desktop/RoboticsSoftware/project1/build/CMakeFiles/hello.dir
